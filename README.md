@@ -28,3 +28,6 @@ The project includes a **Logical Diagram** for the gate connections and a **Brea
 * **74HC32:** Quad 2-input OR gates.
 
 ---
+![Logic Diagram](Water-level-indicator-simulation.png)
+![Simulation](Water-level-indicator-schematic.pdf)
+
