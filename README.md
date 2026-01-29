@@ -29,5 +29,5 @@ The project includes a **Logical Diagram** for the gate connections and a **Brea
 
 ---
 ![Logic Diagram](Water-level-indicator-simulation.png)
-![Simulation](Water-level-indicator-schematic.pdf)
+
 
