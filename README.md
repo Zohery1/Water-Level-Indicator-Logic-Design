@@ -16,10 +16,10 @@ This project focuses on designing and implementing a digital logic circuit that 
 The circuit logic was derived from a comprehensive truth table and simplified using **Karnaugh Maps (K-Maps)** to achieve the most efficient gate count.
 
 ### Boolean Equations:
-* **L1 (Level 1):** $L1 = W1 + W2 + W3 + W4$
-* **L2 (Level 2):** $L2 = W1 \cdot W2 + W3 + W4$
-* **L3 (Level 3):** $L3 = W1 \cdot W2 \cdot W4 + W3$
-* **L4 (Level 4/Buzzer):** $L4 = W1 \cdot W2 \cdot W3 \cdot W4$
+* **L1 (Level 1):** L1 = W1 + W2 + W3 + W4
+* **L2 (Level 2):** L2 = W1 \cdot W2 + W3 + W4
+* **L3 (Level 3):** L3 = W1 \cdot W2 \cdot W4 + W3
+* **L4 (Level 4/Buzzer):** L4 = W1 \cdot W2 \cdot W3 \cdot W4
 
 ## 🛠️ Implementation
 The project includes a Breadboard Simulation using the following Integrated Circuits (ICs):
