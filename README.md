@@ -30,6 +30,7 @@ The project includes a Breadboard Simulation using the following Integrated Circ
 ![Simulation Circuit](Water-level-indicator-simulation.png)
 
 📄 **Technical Files:**
+* [Download Report PDF](Water-level-indicator-report.pdf)
 * [Download Schematic PDF](Water-level-indicator-schematic.pdf)
 
 ---
